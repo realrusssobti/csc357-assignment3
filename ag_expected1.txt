@@ -1,0 +1,13 @@
+ag_tree1
+|-- alpha
+|-- bob
+|-- tmp
+|   |-- alpha
+|   |-- bob
+|   |-- burrito
+|   |-- tmp
+|   |   `-- bob
+|   `-- zebra
+`-- zebra
+
+4 directories, 6 files
